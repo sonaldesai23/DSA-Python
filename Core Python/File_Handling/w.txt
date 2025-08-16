@@ -1,0 +1,3 @@
+1 Objective The primary objective of this experiment is to gain a practical understanding of fundamental probability distributions Gaussian, Multinomial, and Bernouli 
+ by implementing functions to generate samples from them and visualizing their characteristics. 
+ Students will observe how increasing sample sizes lead to empirical distributions that better approximate the true underlying probability distributions.
