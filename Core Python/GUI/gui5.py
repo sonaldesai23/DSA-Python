@@ -26,3 +26,7 @@ btn = Button(parent, text="Submit", command=submit_action)
 btn.place(x=120, y=150)
 
 parent.mainloop()
+
+'''
+Now when you run this and press Submit, a message box will pop up showing the entered Name and Regd No.
+'''
